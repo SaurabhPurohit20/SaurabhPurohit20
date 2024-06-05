@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaurabhPurohit20
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently working in Android & Web Development
-- 💞️ I’m looking to collaborate on Android, Angular, .Net, etc
+- 💞️ I’m looking to collaborate on Android, React Native, React, Angular, ASP.Net, .net core 8, etc.
 - 📫 You can reach me at
 - Mobile: +91 9011392128
 - Mail saurabhpurohit20@gmail.com
